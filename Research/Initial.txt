@@ -1,0 +1,11 @@
+Bitmaps
+# A bitmap is a data structure: A way of storing bits of information
+# The term bitmap specifically refers to a map of bits. It is basically a matrix of bits.
+# Bitmap images are actually pix-maps.
+        $ A pix-map is a map of pixels
+        $ Bitmap images have 1 bit per pixel; pix-map images have multiple bits per pixel
+                % An example is Microsoft Paint that saves bitmaps with 24 bits per pixel.
+# The distinction between bitmaps and pix-maps doesn't seem to be strictly enforced in online sources. 
+# Most image file formats are bitmaps. This includes JPEG, TIFF, and PNG. All these formats are compressed bitmaps.
+        $ The term bitmap file usually refers to the uncompressed BMP format. 
+                % This format stores the pixels of an imagine in a logical matrix of pixels (where each pixel is a certain number of bytes).
